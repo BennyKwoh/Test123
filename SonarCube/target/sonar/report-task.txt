@@ -1,0 +1,5 @@
+projectKey=coms.aws.test:SonarCube
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/coms.aws.test:SonarCube
+ceTaskId=AW5IyjNswFXn6TYDXLmq
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW5IyjNswFXn6TYDXLmq
